@@ -1,24 +1,9 @@
-# README
+# Micro-reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## O que é
+Um projeto curto do curso de Ruby on Rails do The Odin Project, focado na construção dos modelos de usuário, postagens e comentários para praticar conceitos de modelagem de dados e construção através do Active Record.
 
-Things you may want to cover:
+## O que usei
+Ruby on Rails
+Conceitos de Rails (associações, validações, Active Record).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
