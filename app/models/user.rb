@@ -4,4 +4,5 @@ class User < ApplicationRecord
   validates :user_name, length: { in: 3..20 }
 
   has_many :posts
+  has_many :comments
 end

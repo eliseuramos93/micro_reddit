@@ -16,7 +16,7 @@ end
 class Post < ApplicationRecord
   validates :post_title, presence: true, length: { in: 1..50 }
   validates :post_url, presence: true, url: true
-  validates :user_id, presence: true
 
   belongs_to :user
+  has_many :comments
 end
